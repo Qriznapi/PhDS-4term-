@@ -1,2 +1,2 @@
 # PhDS-4term-
-hw@projects on ml and statistics
+projects on ml and statistics
